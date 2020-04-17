@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{6832F195-A864-FBC1-B4A1-641CE4C408CA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_MINE/Scripts/Rakieta.cs">
+    <Files>
+      <File FileName="Assets/_MINE/Scripts/Promien.cs" Line="46" Column="48" />
+      <File FileName="Assets/_MINE/Scripts/CelReaktywny.cs" Line="18" Column="35" />
+      <File FileName="Assets/_MINE/Scripts/podstawowyAI.cs" Line="7" Column="5" />
+      <File FileName="Assets/_MINE/Scripts/Kontroler.cs" Line="7" Column="29" />
+      <File FileName="Assets/_MINE/Scripts/Fireball.cs" Line="1" Column="1" />
+      <File FileName="Assets/_MINE/Scripts/Rakieta.cs" Line="27" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BaseProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_MINE" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Rakieta.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4e8f817e-c7e9-4fe7-a392-1065c9eec173" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
